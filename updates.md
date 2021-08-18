@@ -17,5 +17,11 @@ Fun example😆: I am an experienced office manager. (Why should I believe you?
                                              You offered no examples of your experience.)
                                              
   * [Type casting ](https://www.guru99.com/c-type-casting.html#:~:text=Summary%201%20Typecasting%20is%20also%20called%20as%20type,compatible%20data%20type%20is%20found.%20More%20items...%20)
+  
+❗: What is Typecasting in C?
+
+Typecasting is converting one data type into another one. 
+
+It is also called as data conversion or type conversion in C language.
 ******************************************************
           
