@@ -2,6 +2,7 @@
 * Pointers are also used for [dereferencing](https://www.tutorialspoint.com/what-does-dereferencing-a-pointer-mean-in-c-cplusplus)
 * Gone through this video about [Microprocessors](https://www.youtube.com/watch?v=Xl2nWDcy0To)
 
+************************
 # August 18
 * generic pointer
 void* ptr can only print what it is given as it returns nothing
@@ -24,4 +25,8 @@ Typecasting is converting one data type into another one.
 
 It is also called as data conversion or type conversion in C language.
 ******************************************************
+
+# August 19
+
+
           
